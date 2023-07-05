@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048109041436",
+    "project_id": "posrant",
+    "storage_bucket": "posrant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048109041436:android:2efcaf9223f70e8a199cd9",
+        "android_client_info": {
+          "package_name": "com.example.posrant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048109041436-le5n1mk0tc4bjbsbbh6m8v7ddnnfua9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HCfUGYpm9ruwhCf_HJc1Lkb0Si_SZqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048109041436-h2lq19qvi3nm1bbv1j18kp9smc3knk1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
